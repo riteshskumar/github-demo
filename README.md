@@ -7,4 +7,4 @@
 
 Rebase example from myfeature branch.
 
-New rebase example from master
+New rebase example from master, some more text from myfeature02
